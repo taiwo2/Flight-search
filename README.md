@@ -23,30 +23,29 @@ This project is a responsive clone of Google Flights, built using React and the 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/taiwo2/Flight-search.git
+```bash
+  git clone https://github.com/taiwo2/Flight-search.git
 
-  ```
 2. Navigate to the project directory:
 
- ```bash
- cd responsive-google-flights-clone
- ```
+
+  cd responsive-google-flights-clone
+
 3. Install dependencies:
-```bash
-  npm install
- ```
+
+    npm install
+ 
 4. Create a .env file with your API key:
- ```bash
-  REACT_APP_API_KEY=your_api_key_here
+
+    REACT_APP_API_KEY=your_api_key_here
 
  5. Start the development server:
-  npm run dev
+    npm run dev
 
  ```
 ## Usage
 
-1. Open http://localhost:3000.
+1. Open http://localhost:5173.
 2. Enter origin and destination, select date, adults, and cabin class.
 3. Click "Search Flights" to view options.
 
