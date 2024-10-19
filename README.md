@@ -20,16 +20,14 @@ This project is a responsive clone of Google Flights, built using React and the 
 - **Sky Scrapper API**: Used for fetching flight data.
 
 ## Installation
-
+```bash
 1. Clone the repository:
 
-```bash
-  git clone https://github.com/taiwo2/Flight-search.git
+    git clone https://github.com/taiwo2/Flight-search.git
 
 2. Navigate to the project directory:
 
-
-  cd responsive-google-flights-clone
+    cd responsive-google-flights-clone
 
 3. Install dependencies:
 
