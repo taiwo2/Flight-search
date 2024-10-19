@@ -4,6 +4,9 @@
 
 This project is a responsive clone of Google Flights, built using React and the [Sky Scrapper API](https://rapidapi.com/apiheya/api/sky-scrapper) from RapidAPI. The application allows users to search for flights based on origin, destination, date, number of adults, and cabin class.
 
+### Demo
+View the demo [here](https://fascinating-fenglisu-4a6a55.netlify.app/).
+
 ## Features
 
 - **Responsive Design**: The application is fully responsive and works well on various devices.
